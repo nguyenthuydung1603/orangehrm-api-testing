@@ -1,0 +1,17 @@
+[
+    {
+        "leaveTypeId": 8, 
+        "fromDate": "2024-05-01", 
+        "toDate": "2024-05-05"
+    },
+    {
+        "leaveTypeId": 8, 
+        "fromDate": "2024-08-05", 
+        "toDate": "2024-08-07"
+    },
+    {
+        "leaveTypeId": 8, 
+        "fromDate": "2024-02-08", 
+        "toDate": "2024-02-09"
+    }
+]
